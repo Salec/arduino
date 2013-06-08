@@ -1,0 +1,9 @@
+int* distance(pin)
+{
+   digitalWrite(trigPin, HIGH);
+  delayMicroseconds(1000);
+  digitalWrite(trigPin, LOW);
+  int duration = pulseIn(Pin, HIGH);
+  int distance = (duration/2) / 29.1;
+  return distance;
+}
