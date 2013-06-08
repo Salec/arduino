@@ -73,3 +73,8 @@ void enciendeLed(int a)
    digitalWrite(a,LOW);
   
 }
+void test(int a)
+{
+  digitalWrite(a, HIGH);
+
+}
