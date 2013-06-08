@@ -11,6 +11,8 @@ Porsteriormente se podrá pasar a realiar nuevos desarrollos
 
 Pequeñas notas para el uso de git
 
+
+==========================
 Antes de hacer un push hay que hacer un commit
 
 comando util
@@ -37,3 +39,8 @@ para bajar git fecth +-
 
 para ver las diferencias hacer un git diff HEAD 
 ----------------> mirar si va con número o con qué...
+
+
+para hacer que descarge meter la url en un git remote add <repo> <url>
+
+y hacer un git pull

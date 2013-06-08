@@ -34,3 +34,6 @@ luego:
 *git push
 
 para bajar git fecth +-
+
+para ver las diferencias hacer un git diff HEAD 
+----------------> mirar si va con número o con qué...
